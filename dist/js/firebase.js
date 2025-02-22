@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyAH0cGACFs08M3rrD3_swwDpltG2KzzzCY",
-  authDomain: "gsolution-754c5.firebaseapp.com",
-  projectId: "gsolution-754c5",
-  storageBucket: "gsolution-754c5.appspot.com",
-  messagingSenderId: "307270571076",
-  appId: "1:307270571076:web:4f1c5083864fab91621811",
-  measurementId: "G-PG6XWR2DPQ",
+  apiKey: "AIzaSyAy8LQsCRL49Nmoe0Fm3YR7RCxy9N69TPo",
+  authDomain: "soulsync-d2e40.firebaseapp.com",
+  projectId: "soulsync-d2e40",
+  storageBucket: "soulsync-d2e40.firebasestorage.app",
+  messagingSenderId: "662234761",
+  appId: "1:662234761:web:26a05113517f9f83030858",
+  measurementId: "G-GMLQ3WTDX8"
 };
 export default firebaseConfig;
